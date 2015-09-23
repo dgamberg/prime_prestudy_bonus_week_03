@@ -25,3 +25,5 @@ var output = multiplyTimesSix(cutItInHalf(subtractTwoHundred(cubeIt(6))));
 
 //output result
 console.log(output);
+// 648
+
